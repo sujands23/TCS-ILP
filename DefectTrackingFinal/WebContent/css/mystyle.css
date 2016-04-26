@@ -1,0 +1,72 @@
+body
+{
+	background-color: blue;
+	
+}
+
+fieldset
+{
+	width:100%;
+	background:#eeefff;
+}
+
+.ex
+{
+	background-image: url(images/bck.jpg);
+	background-repeat: repeat;
+}
+
+.ey
+{
+	background-color: white;
+}
+
+input
+{
+	width: 200;	
+}
+
+input.px
+{
+	width: 80;
+}
+
+a:link
+{
+	color: blue;
+	text-decoration: none;
+}
+a:visited
+{
+	color: brown;
+	text-decoration: none;
+}
+a:hover
+{
+	color: pink;
+	text-decoration: none;
+}
+a:active
+{
+	color: green;
+	text-decoration: none;
+}
+
+.it:hover
+{
+	height: 200;
+	width: 200;
+}
+
+td.col
+{
+	background-color: lightblue;
+}
+.tf
+{
+	background-image: url(images/bck.jpg);
+	font-color: black;
+	font-style: italic;
+	font-decoration: underline;
+	border: none;
+}
